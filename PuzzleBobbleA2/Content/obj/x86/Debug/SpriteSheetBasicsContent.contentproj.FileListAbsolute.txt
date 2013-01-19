@@ -1,0 +1,2 @@
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\COMP376 Lab\SpriteSheetBasics\SpriteSheetBasics\Content\obj\x86\Debug\SpriteSheetBasicsContent.contentprojResolveAssemblyReference.cache
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\A2\SpriteSheetBasics\Content\obj\x86\Debug\ResolveAssemblyReference.cache

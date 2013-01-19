@@ -1,0 +1,17 @@
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\COMP376 Lab\SpriteSheetBasics\SpriteSheetBasics\bin\x86\Debug\Content\gohan.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\COMP376 Lab\SpriteSheetBasics\SpriteSheetBasics\bin\x86\Debug\SpriteSheetBasics.exe
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\COMP376 Lab\SpriteSheetBasics\SpriteSheetBasics\bin\x86\Debug\SpriteSheetBasics.pdb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\COMP376 Lab\SpriteSheetBasics\SpriteSheetBasics\obj\x86\Debug\SpriteSheetBasics.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\COMP376 Lab\SpriteSheetBasics\SpriteSheetBasics\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\COMP376 Lab\SpriteSheetBasics\SpriteSheetBasics\obj\x86\Debug\SpriteSheetBasics.exe
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\COMP376 Lab\SpriteSheetBasics\SpriteSheetBasics\obj\x86\Debug\SpriteSheetBasics.pdb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\A2\SpriteSheetBasics\bin\x86\Debug\Content\gohan.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\A2\SpriteSheetBasics\bin\x86\Debug\Content\bubbobwallpaper.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\A2\SpriteSheetBasics\bin\x86\Debug\SpriteSheetBasics.exe
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\A2\SpriteSheetBasics\bin\x86\Debug\SpriteSheetBasics.pdb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\A2\SpriteSheetBasics\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\A2\SpriteSheetBasics\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\A2\SpriteSheetBasics\obj\x86\Debug\SpriteSheetBasics.exe
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\A2\SpriteSheetBasics\obj\x86\Debug\SpriteSheetBasics.pdb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\A2\SpriteSheetBasics\bin\x86\Debug\Content\10 The Ecstasy of Gold.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\A2\SpriteSheetBasics\bin\x86\Debug\Content\10 The Ecstasy of Gold.wma

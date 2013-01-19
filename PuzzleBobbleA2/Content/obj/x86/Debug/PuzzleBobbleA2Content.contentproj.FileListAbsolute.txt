@@ -1,0 +1,6 @@
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\A2\SpriteSheetBasics\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\A2\PuzzleBobbleA2\Content\obj\x86\Debug\PuzzleBobbleA2Content.contentprojResolveAssemblyReference.cache
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\A2_PatrickModafferi9401377\A2\PuzzleBobbleA2\Content\obj\x86\Debug\PuzzleBobbleA2Content.contentprojResolveAssemblyReference.cache
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\A2_PatrickModafferi9401377 - Copy\A2\PuzzleBobbleA2\Content\obj\x86\Debug\PuzzleBobbleA2Content.contentprojResolveAssemblyReference.cache
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\A3\A2\PuzzleBobbleA2\Content\obj\x86\Debug\PuzzleBobbleA2Content.contentprojResolveAssemblyReference.cache
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\A3\A3\PuzzleBobbleA2\Content\obj\x86\Debug\PuzzleBobbleA2Content.contentprojResolveAssemblyReference.cache
